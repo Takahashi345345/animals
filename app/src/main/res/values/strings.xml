@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">どうぶつのなきごえ</string>
+    <string name="text_message">ぽちぽちしてみよ～う！</string>
+    <string name="button_text_cat">😺【ねこ】</string>
+    <string name="button_text_dog">🐶【いぬ】</string>
+    <string name="button_text_monkey">🙉【さる】</string>
+    <string name="button_text_mouse">🐭【ねずみ】</string>
+    <string name="button_text_cow">🐮【うし】</string>
+    <string name="button_text_pig">🐷【ぶた】</string>
+    <string name="button_text_horse">🐴【うま】</string>
+    <string name="button_text_elephant">🐘【ぞう】</string>
+    <string name="button_text_gorilla">🦍【ごりら】</string>
+    <string name="button_text_chick">🐥【ひよこ】</string>
+    <string name="button_text_sheep">🐑【ひつじ】</string>
+    <string name="button_text_fox">🦊【きつね】</string>
+    <string name="button_text_moai">🗿【もあい】</string>
+    <string name="button_text_giraffe">🦒【きりん】</string>
+    <string name="text_message_cat">にゃーにゃー</string>
+    <string name="text_message_dog">わんわん</string>
+    <string name="text_message_monkey">うきー</string>
+    <string name="text_message_mouse">ちゅーちゅー</string>
+    <string name="text_message_cow">もー</string>
+    <string name="text_message_pig">ぶひぶひ</string>
+    <string name="text_message_horse">ひひーん</string>
+    <string name="text_message_elephant">ぱおーん</string>
+    <string name="text_message_gorilla">うほうほ</string>
+    <string name="text_message_chick">ぴよぴよ</string>
+    <string name="text_message_sheep">めー</string>
+    <string name="text_message_fox">こんこん</string>
+    <string name="text_message_moai">・・・。</string>
+    <string name="text_message_giraffe">もー</string>
+</resources>
